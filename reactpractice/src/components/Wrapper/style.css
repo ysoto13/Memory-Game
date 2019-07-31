@@ -1,6 +1,6 @@
 .wrapper {
   padding-top: 50px;
-  background: rgb(42, 130, 189);
+  background: url(../images/full-bloom.png);
   height: 100%;
   display: flex;
   flex-flow: row wrap;
